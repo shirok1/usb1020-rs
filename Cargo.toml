@@ -1,0 +1,3 @@
+[workspace]
+
+members = ["usb1020", "usb1020-cli"]
